@@ -1,7 +1,8 @@
 # Another2D-Platformer
 A Game Maker platformer project
 
-﻿-------------Another 2D Platformer Manual----------------------
+﻿-------------Another 2D Platformer Manual----------------------﻿
+
 Controls:
 You can navigate across the main menu with the arrow keys
  (up and down) and with the "W" and "S" keys.
